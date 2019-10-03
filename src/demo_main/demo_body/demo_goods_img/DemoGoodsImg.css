@@ -1,0 +1,14 @@
+.DemoGoodsImg img{
+  height: 37.5rem;
+  width: 25rem;
+  margin-left: 5rem;
+}
+
+
+@media (max-width: 768px) {
+  .DemoGoodsImg img{
+    margin:0 auto;
+    height: 100%;
+    width: 100%;
+  }
+}
